@@ -1,7 +1,7 @@
-html {
-    /* Setting a base font size of 10px give us easier rem calculations
+/* Setting a base font size of 10px give us easier rem calculations
          Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
-       */
+       */html {
+    
     font-size: 10px;
 }
 
@@ -54,7 +54,7 @@ a:visited {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     display: block;
     height: auto;
     margin: 0 auto;
